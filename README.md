@@ -85,11 +85,6 @@ It includes all tasks, projects, and learnings that demonstrate my ability to wo
 
 ---
 
-## 🌐 Portfolio Link
-👉 (Add your GitHub Pages link here if you create one)
-
----
-
 ## 🔗 Connect with Me
 - 💼 LinkedIn: [View My Profile](https://www.linkedin.com/in/deepthi-sai-036530365/)
 - 💻 GitHub: [View My GitHub](https://github.com/deepthisai18)
