@@ -62,8 +62,9 @@ It includes all tasks, projects, and learnings that demonstrate my ability to wo
 - Consolidated all tasks into a single professional portfolio  
 - Created a master GitHub repository showcasing all projects  
 - Summarized key learnings, skills, and outcomes  
-- Prepared final portfolio presentation and documentation
-- 
+- Prepared final portfolio presentation and documentation  
+- 🔗 Project Link: [View Portfolio](https://github.com/deepthisai18/Deepthi-DataAnalyst-Internship-Portfolio)
+
 ---
 
 ## 🛠 Skills Gained
